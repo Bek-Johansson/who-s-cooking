@@ -1,0 +1,9 @@
+let name = "Yes!";
+
+if (name == "Hungry") {
+  console.log("FeelLikeCooking");
+} else if (name == "Yes!") {
+  console.log("WarmUpTheMicrowave!");
+} else {
+  console.log("TextForTakeOut");
+}
